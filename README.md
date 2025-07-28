@@ -43,12 +43,10 @@ This repo serves as:
 - A place to inspire and connect with fellow learners
 
 ---
-
-> 💡 _“Every competition taught me something new — teamwork, speed, pressure handling, and most importantly, consistency.”_
+> 💡 _"You have the right to perform your prescribed duties, but you are not entitled to the fruits of your actions.  
+> &emsp;— **Bhagavad Gita**
 > ---
-
-📖 *"You have the right to perform your prescribed duties, but you are not entitled to the fruits of your actions."*  
-— **Bhagavad Gita**
+Every competition taught me something new — teamwork, speed, pressure handling, and most importantly, consistency.
 
 🎯 *Let the work be your worship, and excellence be your habit.*
 
