@@ -1,7 +1,15 @@
 # 🏆 Competitions & Certifications
 
-Hi there! I'm Deeksha, a passionate Computer Science & Engineering student with a drive for innovation, consistency, and continuous learning. Welcome to my repository of certifications, competition highlights, and learning journeys! This space reflects my dedication to continuous learning and my journey as a Computer Science and Engineering student with a passion for development, DSA, and AI.
+Hey, I’m Deeksha.
+A third-year Computer Science & Engineering student who genuinely enjoys solving problems, exploring ideas, and building things that work.
 
+I have a soft spot for DSA — there’s something satisfying about untangling logic step by step, especially on LeetCode, where I keep showing up just to get a little better each time.
+
+I’m also drawn to AI, the idea that machines can think, adapt, and even surprise us. And then there’s Web Development, where I love creating interfaces that feel good to use — small websites that come alive with logic and design.
+
+This repo holds a part of that journey — certifications, competitions, and projects I’ve enjoyed along the way.
+
+Keeping the fire alive — with the fuel of dedication. 🔥
 ---
 
 ## 🥇 Achievements in Competitions 🏆
