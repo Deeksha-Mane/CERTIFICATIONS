@@ -17,7 +17,7 @@ Keeping the fire alive — with the fuel of dedication. 🔥
 ### 🥇 Techzest - Wartech Winner
 - Cleared 2 rounds of Aptitude + 1 HR Interview
 
-### 🥇 Find the Bug 3.0 - 2nd Prize (Team Event)
+### 🥈 Find the Bug 3.0 - 2nd Prize (Team Event)
 - Secured 2nd Prize at IIT Dharwad’s E-Summit ’25 Find the Bug 3.0, a flagship M&A case study competition focused on identifying strategic, financial, and operational ‘bugs’ and proposing innovative solutions.
 
 ### 🥉 Infinity Hunt – 3rd Prize (Team Event)
