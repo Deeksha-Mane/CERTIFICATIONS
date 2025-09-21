@@ -29,15 +29,15 @@ Keeping the fire alive — with the fuel of dedication. 🔥
 ## 📜 Certifications
 
 ### ✅ Completed
+- **Apna College - DSA in C++**
+- **HP LIFE - AI for Beginners** – Concepts, ethics, and applications of AI
 - **GeeksforGeeks JavaScript Full Course** – 8-week course with hands-on projects
 - **HackerRank Skill Certifications**:
   - Java (Basic)
   - SQL (Basic)
   - CSS (Basic)
-- **HP LIFE - AI for Beginners** – Concepts, ethics, and applications of AI
 
 ### 🔥 Ongoing / Upcoming
-- **Apna College - DSA in C++**
 - **GeeksforGeeks - AI Certification**
 - **GeeksforGeeks - Computer Science Fundamentals**
 
