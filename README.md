@@ -17,6 +17,9 @@ Keeping the fire alive — with the fuel of dedication. 🔥
 ### 🥇 Techzest - Wartech Winner
 - Cleared 2 rounds of Aptitude + 1 HR Interview
 
+### 🥈 Find the Bug 3.0 - 2nd Prize (Team Event)
+- Secured 2nd Prize at IIT Dharwad’s E-Summit ’25 Find the Bug 3.0, a flagship M&A case study competition focused on identifying strategic, financial, and operational ‘bugs’ and proposing innovative solutions.
+
 ### 🥉 Infinity Hunt – 3rd Prize (Team Event)
 - Covered Aptitude + Coding Quizzes
 
@@ -29,6 +32,7 @@ Keeping the fire alive — with the fuel of dedication. 🔥
 ## 📜 Certifications
 
 ### ✅ Completed
+- **Oracle Cloud Infrastructure AI Foundations Associate**
 - **Apna College - DSA in C++**
 - **HP LIFE - AI for Beginners** – Concepts, ethics, and applications of AI
 - **GeeksforGeeks JavaScript Full Course** – 8-week course with hands-on projects
@@ -39,7 +43,7 @@ Keeping the fire alive — with the fuel of dedication. 🔥
 
 ### 🔥 Ongoing / Upcoming
 - **GeeksforGeeks - AI Certification**
-- **GeeksforGeeks - Computer Science Fundamentals**
+- **GeeksforGeeks - Fullstack Web Development**
 
 ---
 
