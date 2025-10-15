@@ -14,6 +14,12 @@ Keeping the fire alive — with the fuel of dedication. 🔥
 
 ## 🥇 Achievements in Competitions 🏆
 
+### 🥇 SANKALPAN 2025 – 1st Prize (Team NeuroSync) (Idea Presentation Competition)
+- Project: Memory Mirror – AI-Driven Smart Mirror to Support Memory Recall in Alzheimer’s Patients
+- Built a real-time AI prototype using Python, Streamlit, OpenCV, DeepFace, and gTTS that recognizes loved ones and plays comforting voice messages to assist Alzheimer’s patients.
+- Judged on innovation, technical execution, impact, and empathy — awarded First Prize among multiple finalists.
+- Focused on combining AI with emotional design, creating technology that connects, not just computes.
+
 ### 🥇 Techzest - Wartech Winner
 - Cleared 2 rounds of Aptitude + 1 HR Interview
 
@@ -33,6 +39,7 @@ Keeping the fire alive — with the fuel of dedication. 🔥
 
 ### ✅ Completed
 - **Oracle Cloud Infrastructure AI Foundations Associate**
+- **Oracle Cloud Infrastructure Generative AI Professional**
 - **Apna College - DSA in C++**
 - **HP LIFE - AI for Beginners** – Concepts, ethics, and applications of AI
 - **GeeksforGeeks JavaScript Full Course** – 8-week course with hands-on projects
