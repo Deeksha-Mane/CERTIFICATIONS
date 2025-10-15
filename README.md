@@ -23,6 +23,12 @@ Keeping the fire alive — with the fuel of dedication. 🔥
 ### 🥇 Techzest - Wartech Winner
 - Cleared 2 rounds of Aptitude + 1 HR Interview
 
+### 🥈 COEP Mindspark Hackathon 2025 – 1st Runner-Up (Team Vertex)
+- Project: Synchro – Smart Conveyor Scheduling and Buffer Management Engine for Tata Motors
+- Secured the 1st Runner-Up position in a 24-hour hackathon by co-developing a full-stack scheduling engine to solve a complex conveyor & buffer management challenge. 
+- Our solution demonstrated a +60.7% increase in Jobs Per Hour (JPH) and an 83.3% reduction in buffer overflows in a high-fidelity simulation. 
+- Engineered the real-time dashboard and backend logic using React, Python (FastAPI), and Firebase, placing in the top 2 among 25 shortlisted finalist teams.
+
 ### 🥈 Find the Bug 3.0 - 2nd Prize (Team Event)
 - Secured 2nd Prize at IIT Dharwad’s E-Summit ’25 Find the Bug 3.0, a flagship M&A case study competition focused on identifying strategic, financial, and operational ‘bugs’ and proposing innovative solutions.
 
