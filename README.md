@@ -46,6 +46,7 @@ Keeping the fire alive — with the fuel of dedication. 🔥
 ### ✅ Completed
 - **Oracle Cloud Infrastructure AI Foundations Associate**
 - **Oracle Cloud Infrastructure Generative AI Professional**
+- **Oracle AI Vector Search Professional**
 - **Apna College - DSA in C++**
 - **HP LIFE - AI for Beginners** – Concepts, ethics, and applications of AI
 - **GeeksforGeeks JavaScript Full Course** – 8-week course with hands-on projects
