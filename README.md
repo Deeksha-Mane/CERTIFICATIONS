@@ -56,7 +56,6 @@ Keeping the fire alive — with the fuel of dedication. 🔥
   - CSS (Basic)
 
 ### 🔥 Ongoing / Upcoming
-- **GeeksforGeeks - AI Certification**
 - **GeeksforGeeks - Fullstack Web Development**
 
 ---
