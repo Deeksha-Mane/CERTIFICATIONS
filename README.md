@@ -54,11 +54,7 @@ Keeping the fire alive — with the fuel of dedication. 🔥
   - Java (Basic)
   - SQL (Basic)
   - CSS (Basic)
-
-### 🔥 Ongoing / Upcoming
-- **GeeksforGeeks - AI Certification**
-- **GeeksforGeeks - Fullstack Web Development**
-
+  
 ---
 
 ## 🔁 Why this repo?
