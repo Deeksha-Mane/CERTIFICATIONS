@@ -32,7 +32,10 @@ Keeping the fire alive — with the fuel of dedication. 🔥
 ### 🥈 Find the Bug 3.0 - 2nd Prize (Team Event)
 - Secured 2nd Prize at IIT Dharwad’s E-Summit ’25 Find the Bug 3.0, a flagship M&A case study competition focused on identifying strategic, financial, and operational ‘bugs’ and proposing innovative solutions.
 
-### 🥉 Infinity Hunt – 3rd Prize (Team Event)
+### 🥈 TECHNOTSAV 2K26 Infinity Hunt – 2nd Prize (Team 4Clovers)
+- Secured 2nd place in a multi-round event involving aptitude, coding, clue-solving, and a buzzer round. Improved from 3rd place (previous year), showcasing growth in strategy and execution.
+
+### 🥉 TECHNOTSAV 2K25 Infinity Hunt – 3rd Prize (Team Event)
 - Covered Aptitude + Coding Quizzes
 
 ### 🏅 CodeKshetra Hackathon– TECH-SYMPOSIUM 2K26 Finalist (Team Event)
