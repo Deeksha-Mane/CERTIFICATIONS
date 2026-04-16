@@ -35,6 +35,11 @@ Keeping the fire alive — with the fuel of dedication. 🔥
 ### 🥉 Infinity Hunt – 3rd Prize (Team Event)
 - Covered Aptitude + Coding Quizzes
 
+### 🏅 CodeKshetra Hackathon– TECH-SYMPOSIUM 2K26 Finalist (Team Event)
+- Project: JobSensei – AI-Powered Career Guidance Platform for Non-Metro Regions
+- Reached the Final Round (Top 13 teams) in a 24-hour national-level hackathon organized during TECH-SYMPOSIUM 2K26 at DKTE Textile & Engineering Institute, Ichalkaranji.
+- The competition began with an online idea submission round, where teams presented their proposed solutions through PPTs. Out of 665 registered teams, only 53 teams advanced to the offline round, and 13 teams were selected for the final stage.
+
 ### 🛠 SGU Hackathon – Participant
 - Built a full project within 2 days  
 - Gained experience, team skills & hands-on tech application
